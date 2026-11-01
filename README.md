@@ -7,7 +7,7 @@ BadWrite is a simple, fast and distraction-free Markdown editor for Windows. Wri
 
 🇮🇹 [Leggi in italiano](README.it.md) · 🌐 [Website](https://www.steo.it/badwrite/)
 
-> \*\*Beta software.\*\* BadWrite is in beta: it works, but you may find rough edges. Please keep a backup of important documents and tell me what you find (see \[Feedback](#feedback)).
+> **Beta software.** BadWrite is in beta: it works, but you may find rough edges. Please keep a backup of important documents and tell me what you find (see [Feedback](#feedback)).
 
 ![screenshot_1](Assets/screenshot_1.png)
 
