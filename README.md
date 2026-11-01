@@ -1,4 +1,4 @@
-![BadWrite](assets/BadWrite.png)
+![BadWrite](Assets/BadWrite.png)
 # BadWrite
 
 **A Markdown editor developed in Sicily with wine.**
@@ -9,7 +9,7 @@ BadWrite is a simple, fast and distraction-free Markdown editor for Windows. Wri
 
 > \*\*Beta software.\*\* BadWrite is in beta: it works, but you may find rough edges. Please keep a backup of important documents and tell me what you find (see \[Feedback](#feedback)).
 
-![screenshot_1](assets/screenshot_1.png)
+![screenshot_1](Assets/screenshot_1.png)
 
 ## Download
 
