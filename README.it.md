@@ -9,7 +9,7 @@ BadWrite è un editor Markdown per Windows semplice, veloce e senza distrazioni.
 
 > **Software in beta.** BadWrite è in versione beta: funziona, ma può avere qualche bug. Tieni una copia di sicurezza dei documenti importanti e segnalami quello che trovi (vedi [Segnalazioni](#segnalazioni)).
 
-![screenshot_1](Assets/screenshot.png)
+![screenshot_1](Assets/screenshot_1.png)
 
 ## Download
 
@@ -42,6 +42,11 @@ BadWrite non è ancora firmato digitalmente, quindi la prima volta Windows può 
 * Cerca e sostituisci con un pannello flottante (`Ctrl+F` / `Ctrl+H`)
 * Modalità focus (`F8`) e modalità macchina da scrivere (`F9`)
 * Schermo intero con orologio (`F11`)
+* Ricerca porole sul WEB
+
+![screenshot_1](Assets/screenshot_2.png)
+
+![screenshot_1](Assets/screenshot_3.png)
 
 **Navigazione**
 
