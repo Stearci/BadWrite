@@ -9,7 +9,7 @@ BadWrite is a simple, fast and distraction-free Markdown editor for Windows. Wri
 
 > **Beta software.** BadWrite is in beta: it works, but you may find rough edges. Please keep a backup of important documents and tell me what you find (see [Feedback](#feedback)).
 
-![screenshot_1](Assets/screenshot.png)
+![screenshot_1](Assets/screenshot_1.png)
 
 ## Download
 
@@ -42,6 +42,11 @@ BadWrite is not code-signed yet, so Windows may show *"Windows protected your PC
 * Find and replace with a floating panel (`Ctrl+F` / `Ctrl+H`)
 * Focus mode (`F8`) and typewriter mode (`F9`)
 * Full screen with clock (`F11`)
+* * In-app web search
+
+![screenshot_1](Assets/screenshot_2.png)
+
+![screenshot_2](Assets/screenshot_3.png)
 
 **Navigation**
 
