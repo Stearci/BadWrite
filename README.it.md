@@ -1,7 +1,7 @@
 ![BadWrite](Assets/BadWrite.png)
 # BadWrite
 
-**Un editor Markdown sviluppato in Sicilia con del buon vino.**
+**Un editor Markdown e gestore di note sviluppato in Sicilia con del buon vino.**
 
 BadWrite è un editor Markdown per Windows semplice, veloce e senza distrazioni. Scrivi da una parte, premi **F5** e guarda il risultato.
 
