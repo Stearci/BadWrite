@@ -1,7 +1,7 @@
 ![BadWrite](Assets/BadWrite.png)
 # BadWrite
 
-**A Markdown editor developed in Sicily with wine.**
+**A Markdown editor and note-taking app developed in Sicily with wine. 🍷✍️**
 
 BadWrite is a simple, fast and distraction-free Markdown editor for Windows. Write on one side, press **F5** and see the result.
 
